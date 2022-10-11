@@ -29,3 +29,7 @@ a:hover {
   background-color: darkolivegreen;
   color: aliceblue;
 }
+
+img {
+  width: 200px;
+}
